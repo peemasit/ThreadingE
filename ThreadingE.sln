@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadingE", "ThreadingE\ThreadingE.csproj", "{A620AD9B-812C-4D35-A76A-5DA61659BB82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A620AD9B-812C-4D35-A76A-5DA61659BB82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A620AD9B-812C-4D35-A76A-5DA61659BB82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A620AD9B-812C-4D35-A76A-5DA61659BB82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A620AD9B-812C-4D35-A76A-5DA61659BB82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6659B49D-7FEF-4E8E-B34C-286D920CF86A}
+	EndGlobalSection
+EndGlobal

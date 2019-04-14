@@ -1,0 +1,7 @@
+C:\Users\peema\source\repos\ThreadingE\ThreadingE\bin\Debug\ThreadingE.exe.config
+C:\Users\peema\source\repos\ThreadingE\ThreadingE\bin\Debug\ThreadingE.exe
+C:\Users\peema\source\repos\ThreadingE\ThreadingE\bin\Debug\ThreadingE.pdb
+C:\Users\peema\source\repos\ThreadingE\ThreadingE\obj\Debug\ThreadingE.csprojAssemblyReference.cache
+C:\Users\peema\source\repos\ThreadingE\ThreadingE\obj\Debug\ThreadingE.csproj.CoreCompileInputs.cache
+C:\Users\peema\source\repos\ThreadingE\ThreadingE\obj\Debug\ThreadingE.exe
+C:\Users\peema\source\repos\ThreadingE\ThreadingE\obj\Debug\ThreadingE.pdb
